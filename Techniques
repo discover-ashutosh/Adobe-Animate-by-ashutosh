@@ -3,9 +3,10 @@
 SYMBOLS++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - The software is treating every set of New keyframes as New symbol (New object more like, cause symbols are created from obj)
     ~ And in the Practise dog Project, I realized somehow I have copied the the first symbol onto other symbol.
-    ~ So, If you create a symbol(of off an object) on (let's say earlier) set of keyframe after you have repositioned the object,
+    ~ So, If you create a symbol(of off an object) on (let's say an earlier) set of keyframe after you have repositioned the object,
     You would find the new set of keyframes won't have the same symbol.
             ~ So decide whether you need the symbol(with its inner animation) on next set of keyframe or not then go on to reposition.
+            ~ Or Simply create the symbol first then reposition.
 - Do NOT create new objects down the timeline after pressing F7
     Because software will perceive both the objects as two different objects which are (truly for you the same 
     objects.)..........12th Nov 22
