@@ -1,6 +1,8 @@
 - Edit Multiple frames
 
 SYMBOLS
+- The software is treating every set of New keyframes as New symbol
+    ~ And in the Practise dog Project, I realized somehow I have copied the the first symbol onto other symbol.
 - Do NOT create new objects down the timeline after pressing F7
     Because software will perceive both the objects as two different objects which are (truly for you the same 
     objects.)..........12th Nov 22
