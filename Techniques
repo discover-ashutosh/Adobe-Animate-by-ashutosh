@@ -10,8 +10,9 @@ SYMBOLS+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - Do NOT create new objects down the timeline after pressing F7
     Because software will perceive both the objects as two different objects which are (truly for you the same 
     objects.)..........12th Nov 22
-- Do delete a symbol 
+-  How to delete a symbol 
     You will have to first break every instance of symbol on entire timeline, and then delete it from library.
     - Wheras, if you were to delete it from the library only, then there will be problems that we haven't figured out
     how to resolve yet.
+- Symbols allow you to edit entire animation easily in comparison to frame by frame editing.
 ----------------------------------------------------------------------------------------------------------------------------
