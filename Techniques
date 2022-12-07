@@ -1,4 +1,5 @@
 - Edit Multiple frames
+- - Do not forget to store a copy of objects before making something destructive.(Like the text in outro before making 3D changes.
 
 SYMBOLS++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - The software is treating every set of New keyframes as New symbol (New object more like, cause symbols are created from obj)
@@ -16,3 +17,9 @@ SYMBOLS+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     how to resolve yet.
 - Symbols allow you to edit entire animation easily in comparison to frame by frame editing.
 ----------------------------------------------------------------------------------------------------------------------------
+
+Rigging(Parenting)+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- Parenting of layer can be changed half way down(any point) the animation as well.
+- Inorder to manipulate a parent object later in the animation and (to avoid deletion of other layers), make a copy of that object
+  in that frame, manipulate and then delete the former.
+------------------------------------------------------------------------------------------------------------------------------
