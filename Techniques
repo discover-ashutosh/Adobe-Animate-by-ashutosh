@@ -1,6 +1,13 @@
 - Edit Multiple frames
 - - Do not forget to store a copy of objects before making something destructive.(Like the text in outro before making 3D changes.
 
+Managing speed of the object++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+- In a fixed no. of frames
+    ~ The longer the distance, the faster the object progression.
+    ~ ----shorter------------------slower-----------------------
+    
+-----------------------------------------------------------------------------------------------------------------------------
+
 SYMBOLS++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - The software is treating every set of New keyframes as New symbol (New object more like, cause symbols are created from obj)
     ~ And in the Practise dog Project, I realized somehow I have copied the the first symbol onto other symbol.
