@@ -29,4 +29,8 @@ Rigging(Parenting)++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 - Parenting of layer can be changed half way down(any point) the animation as well.
 - Inorder to manipulate a parent object later in the animation and (to avoid deletion of other layers), make a copy of that object
   in that frame, manipulate and then delete the former.
+  
+  TWEENING 
+    Relocating registration point
+    - Pressing 'F6' on frame(on which tween is applied) down the timeline and changing the position of registration point will make unwanted changes in object position.
 ------------------------------------------------------------------------------------------------------------------------------
