@@ -32,5 +32,6 @@ Rigging(Parenting)++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   
   TWEENING 
     Relocating registration point
-    - Pressing 'F6' on frame(on which tween is applied) down the timeline and changing the position of registration point will make unwanted changes in object position.
+    - Pressing 'F6' on frame(on which tween is applied) down the timeline and changing the position of registration point will cause 
+      the object to move unwantedly.
 ------------------------------------------------------------------------------------------------------------------------------
