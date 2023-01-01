@@ -23,6 +23,9 @@ SYMBOLS+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     - Wheras, if you were to delete it from the library only, then there will be problems that we haven't figured out
     how to resolve yet.
 - Symbols allow you to edit entire animation easily in comparison to frame by frame editing.
+
+            TWEENING
+                    - While applying tween on a layer you are not allowed to have multiple symbols in it.
 ----------------------------------------------------------------------------------------------------------------------------
 
 Rigging(Parenting)+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -34,4 +37,5 @@ Rigging(Parenting)++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     Relocating registration point
     - Pressing 'F6' on frame(on which tween is applied) down the timeline and changing the position of registration point will cause 
       the object to move unwantedly.
+                > That's why you should set the registration point on the first frame.
 ------------------------------------------------------------------------------------------------------------------------------
